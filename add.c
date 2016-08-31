@@ -3,6 +3,8 @@ void main()
 {
 int x,y;
 add x+y;
-printf(add)
+sub x-y;
+printf(add);
+printf(sub);
 }
 
